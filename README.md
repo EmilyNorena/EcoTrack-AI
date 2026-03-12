@@ -22,8 +22,15 @@ We use de IDE Cursor used before in the course.
 ### Extracting consumption data
 <img width="862" height="666" alt="image" src="https://github.com/user-attachments/assets/9f1f3697-0479-4ab7-adbc-68cd40d0a46b" />
 
-
 ### Running: 
 <img width="1869" height="945" alt="image" src="https://github.com/user-attachments/assets/b831ca75-109a-4417-82ce-6aa3ab8b4e12" />
+
+## Iterative development
+
+### Cursor:
+<img width="877" height="707" alt="image" src="https://github.com/user-attachments/assets/fc76c267-1eb9-4adb-9ea4-52d8b63e18bf" />
+
+### Running: 
+<img width="1894" height="942" alt="image" src="https://github.com/user-attachments/assets/c1796d2c-5287-4bda-b937-e2ffd8b9fee1" />
 
 
