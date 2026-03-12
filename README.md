@@ -1,0 +1,25 @@
+# EcoTrack-AI
+## Link to the application: 
+
+## Prompt 1 - Description
+```
+Create a simple React web app called EcoTrack AI.
+
+The app should allow small businesses to type their daily activities in natural language (example: "We used 5 delivery vans and consumed 200 kWh of electricity").
+
+The system should analyze the text and display a simple carbon footprint estimate.
+
+Use a clean green sustainability design.
+Use Tailwind if possible.
+```
+
+We use de IDE Cursor used before in the course.
+
+## Result
+
+### Cursor: 
+<img width="889" height="405" alt="image" src="https://github.com/user-attachments/assets/08b18a46-6715-4f6d-80f0-183d6845df5c" />
+
+### Running: 
+<img width="1869" height="945" alt="image" src="https://github.com/user-attachments/assets/b831ca75-109a-4417-82ce-6aa3ab8b4e12" />
+
