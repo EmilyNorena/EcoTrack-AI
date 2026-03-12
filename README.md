@@ -1,7 +1,6 @@
 # EcoTrack-AI
-## Link to the application: 
 
-## Prompt 1 - Description
+## Master Prompt
 ```
 Create a simple React web app called EcoTrack AI.
 
@@ -15,11 +14,16 @@ Use Tailwind if possible.
 
 We use de IDE Cursor used before in the course.
 
-## Result
+## Result 
 
 ### Cursor: 
 <img width="889" height="405" alt="image" src="https://github.com/user-attachments/assets/08b18a46-6715-4f6d-80f0-183d6845df5c" />
 
+### Extracting consumption data
+<img width="862" height="666" alt="image" src="https://github.com/user-attachments/assets/9f1f3697-0479-4ab7-adbc-68cd40d0a46b" />
+
+
 ### Running: 
 <img width="1869" height="945" alt="image" src="https://github.com/user-attachments/assets/b831ca75-109a-4417-82ce-6aa3ab8b4e12" />
+
 
